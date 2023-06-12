@@ -1,2 +1,2 @@
 # vacancy
-Gets vacancies fro SuperJob and HeadHunter
+Gets vacancies from SuperJob and HeadHunter
